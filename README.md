@@ -2,7 +2,7 @@
 
 ## I'm a Passionate Web developer, Who love to explore new things!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking for a new Front End Developer Job
 - 🥅 2021 Goals: To become a Full Stack Web developer
 - ⚡ Fun fact: I love to watch and play footbal⚽
